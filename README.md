@@ -3,7 +3,8 @@
 
 ## Στοιχεία Επικοινωνίας
 
-
+![address](/icons/address.png) Ierapetra Crete 
+![mobile](/icons/phone.png) 6945000000 
 ![email](/icons/email.png) std150666@ac.eap.gr
 
 ## Εκπαιδευση
