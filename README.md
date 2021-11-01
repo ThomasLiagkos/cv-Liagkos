@@ -1,3 +1,3 @@
 # cv-Liagkos Thomas
-![cv-Liagkos](/images/LiagkosThomasEap.gpg)
+![cv-Liagkos](/images/LiagkosThomasEap.jpg)
 
