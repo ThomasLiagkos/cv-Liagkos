@@ -3,3 +3,6 @@
 
 ## Στοιχεία Επικοινωνίας
 
+![address](/icons/point.png) Ierapetra Crete
+![mobile](/icons/mobile.png) 6945000000
+![email](/icons/email.png)
