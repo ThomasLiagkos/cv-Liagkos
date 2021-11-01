@@ -3,7 +3,7 @@
 
 ## Στοιχεία Επικοινωνίας
 
-![address](/icons/address.png) **Ierapetra Crete** 
+:house: **Ierapetra Crete** 
 :telephone: _**6945000000**_
 :e-mail: **std150666@ac.eap.gr**
 
