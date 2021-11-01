@@ -4,7 +4,7 @@
 ## Στοιχεία Επικοινωνίας
 
 
-![email](/icons/email.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![email](/icons/email.png) std150666@ac.eap.gr
 
 ## Εκπαιδευση
 
