@@ -1,4 +1,4 @@
-# cv ΛΙΑΓΚΟΣ ΘΩΜΑΣ
+# ΛΙΑΓΚΟΣ ΘΩΜΑΣ
 ![cv-Liagkos](/images/LiagkosThomasEap.jpg)
 
 ## Στοιχεία Επικοινωνίας
